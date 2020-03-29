@@ -1,18 +1,3 @@
-.todo {
+.todo-list {
     background: rgb(116, 217, 235);
-
-    
-}
-.todo li {
-    display: flex;
-    list-style: none;
-    padding: 10px 20px;
-    font-size: 18px;
-    font-family: 'Oxygen';
-    text-transform: uppercase;
-}
-.todo ul {
-    padding: 0;
-    display: flex;
-    flex-direction: column;
 }
