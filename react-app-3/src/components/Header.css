@@ -1,12 +1,11 @@
 .navbar {
-    background: #e4f7a1;
-    font-size: 22px;
+    background: #fff;
+    font-size: 32px;
     font-family: 'Droid Sans';
-    text-transform: uppercase;
-    padding: 20px 20px;
-    margin-bottom: 5px;
+    padding: 10px 10px;
+    text-align: center;
+    
 }
 .navbar p {
-    color: rgb(54, 53, 53);
-    font-size: 2em;
+    font-size: 28px;
 }

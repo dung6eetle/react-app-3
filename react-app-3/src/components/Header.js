@@ -10,7 +10,7 @@ function Header() {
 
     if (hours < 12) {
         timeOfDay = "morning"
-        styles.color = "#FFFA5A"
+        styles.color = "#FA032D"
     } else if (hours >= 12 && hours <17) {
         timeOfDay = "afternoon"
         styles.color = "#F08D1D"
